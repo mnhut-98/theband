@@ -139,7 +139,7 @@ html{
 #slider{
     position: relative;
     padding-top: 50%;
-    background: url('/assets/img/slider/slider-1.jpg') top center /cover no-repeat;
+    background: url('../img/slider/slider-1.jpg') top center /cover no-repeat;
     z-index: 1;
 }
 #slider .content{
