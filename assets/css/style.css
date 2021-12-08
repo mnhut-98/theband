@@ -373,6 +373,12 @@ html{
 .contact-info p i{
     margin-right: 14px;
 }
+.contact-info a{
+    opacity: .6;
+}
+.contact-info a:hover{
+    color: #0c7bd6;
+}
 .content-section .form-control{
     padding: 8px;
     width: 100%;
